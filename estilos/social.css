@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+img{
+    width: 100vw;
+
+}
+
+a{
+    display: block;
+    background-color: darkred;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: blueviolet;
+}
